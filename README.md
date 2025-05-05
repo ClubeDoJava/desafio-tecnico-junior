@@ -31,7 +31,7 @@ A API deve permitir que os usuários realizem operações básicas como criar, l
 
 ## Requisitos e Restrições
 
-*   **Pilha de Tecnologia:**
+*   **Stack:**
     *   **Linguagem:** Java 8 ou superior.
     *   **Framework (Opcional, mas Recomendado):** Spring Boot (com dependências mínimas) ou Spark Java.
     *   **Armazenamento de Dados:**
@@ -60,7 +60,9 @@ A API deve permitir que os usuários realizem operações básicas como criar, l
 *   **Qualidade do Código:** O código é bem organizado, legível e de fácil manutenção.
 *   **Tratamento de Erros:** A API lida com erros de forma adequada, retornando códigos de status HTTP apropriados.
 *   **Uso dos Fundamentos de Java:** Demonstração de uma sólida compreensão dos conceitos principais de Java (POO, Collections Framework).
+
 *   **Adesão aos Princípios RESTful:** Utilização correta dos métodos HTTP para as diferentes operações.
+
 *   **Pontos Bônus (Opcional):**
     *   Implementação de persistência de dados.
     *   Validação básica de entrada.
